@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM_parsing", "STM_parsing\STM_parsing.csproj", "{3D8144E6-FD36-4EC2-B7D9-5317AAA9F41C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xNet", "..\PostAds\xNet\xNet.csproj", "{5D25D06E-0D35-42EF-BBA2-D5DE6E06CD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{F85949E2-8FF2-4A72-A2F9-61E7F1A5CB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8144E6-FD36-4EC2-B7D9-5317AAA9F41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8144E6-FD36-4EC2-B7D9-5317AAA9F41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8144E6-FD36-4EC2-B7D9-5317AAA9F41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8144E6-FD36-4EC2-B7D9-5317AAA9F41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D25D06E-0D35-42EF-BBA2-D5DE6E06CD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D25D06E-0D35-42EF-BBA2-D5DE6E06CD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D25D06E-0D35-42EF-BBA2-D5DE6E06CD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D25D06E-0D35-42EF-BBA2-D5DE6E06CD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85949E2-8FF2-4A72-A2F9-61E7F1A5CB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85949E2-8FF2-4A72-A2F9-61E7F1A5CB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85949E2-8FF2-4A72-A2F9-61E7F1A5CB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85949E2-8FF2-4A72-A2F9-61E7F1A5CB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
